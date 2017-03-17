@@ -4,7 +4,7 @@ A simple example of a [checkstyle] extension to check if a javadoc tag is missin
 
 Build status
 ========= 
-Codeship [ ![Codeship Status for bmaggi/checkstyle-requirejavadoctag](https://codeship.com/projects/2dcefe50-0fa0-0134-353d-16f75abdb9e2/status?branch=master)](https://codeship.com/projects/156708)
+Codeship [ ![Codeship Status for bmaggi/checkstyle-requirejavadoctag](https://codeship.com/projects/9279d8f0-ed64-0134-39d1-4e689037b335/status?branch=master)](https://codeship.com/projects/208589)
 
 Licensing
 =========
