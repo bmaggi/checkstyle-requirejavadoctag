@@ -22,7 +22,7 @@
 
 	<scm>
 		<connection>scm:git:git://github.com/bmaggi/checkstyle-requirejavadoctag.git</connection>
-		<developerConnection>scm:git:ssh://github.com:bmaggi/checkstyle-requirejavadoctag.git</developerConnection>
+		<developerConnection>scm:git:git@github.com:bmaggi/checkstyle-requirejavadoctag.git</developerConnection>
 		<url>http://github.com/bmaggi/checkstyle-requirejavadoctag/tree/master</url>
 		<tag>HEAD</tag>
 	</scm>
