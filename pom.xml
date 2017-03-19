@@ -3,7 +3,7 @@
 
 	<groupId>com.github.bmaggi</groupId>
 	<artifactId>checkstyle-requirejavadoctag</artifactId>
-	<version>0.1.1</version>
+	<version>0.1.2-SNAPSHOT</version>
 
 	<name>Require Javadoc Tag</name>
 	<description>A simple example of custom checkstyle rule. It checks the existence of a javadoc tag</description>
@@ -23,7 +23,7 @@
 		<connection>scm:git:git://github.com/bmaggi/checkstyle-requirejavadoctag.git</connection>
 		<developerConnection>scm:git:git@github.com:bmaggi/checkstyle-requirejavadoctag.git</developerConnection>
 		<url>http://github.com/bmaggi/checkstyle-requirejavadoctag/tree/master</url>
-		<tag>0.1.1</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<developers>
