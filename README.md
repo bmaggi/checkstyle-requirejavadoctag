@@ -43,7 +43,7 @@ Configure the pom.xml
 					<dependency>
 						<groupId>com.github.bmaggi</groupId>
 						<artifactId>checkstyle-requirejavadoctag</artifactId>
-						<version>0.1.0</version>
+						<version>0.1.1</version>
 					</dependency>
 				</dependencies>
 				<executions>
@@ -75,6 +75,8 @@ Configure the pom.xml
 		</plugins>
 	</reporting>
 ```  
+
+Find version in [GitHub releases tab](https://github.com/bmaggi/checkstyle-requirejavadoctag/releases)
 
 # How to make a release
 ## Check that you are using latest version
