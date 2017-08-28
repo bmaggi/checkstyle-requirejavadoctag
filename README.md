@@ -2,13 +2,11 @@ checkstyle-requirejavadoctag
 ======================
 A simple example of a [checkstyle] extension to check if a javadoc tag is missing
 
-Build status
+Status
 ========= 
 Codeship [ ![Codeship Status for bmaggi/checkstyle-requirejavadoctag](https://codeship.com/projects/9279d8f0-ed64-0134-39d1-4e689037b335/status?branch=master)](https://codeship.com/projects/208589)
-
-Licensing
-=========
 [![][license img]][license]
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.bmaggi/checkstyle-requirejavadoctag/badge.svg?style=plastic)](https://maven-badges.herokuapp.com/maven-central/com.github.bmaggi/checkstyle-requirejavadoctag)
 
 Documentation
 =========
