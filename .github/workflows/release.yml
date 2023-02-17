@@ -14,4 +14,4 @@ jobs:
         with:
           java-version: 11
       - name: Prepare release with Maven
-        run: mvn release:clean release:prepare
+        run: mvn --batch-mode release:clean release:prepare
