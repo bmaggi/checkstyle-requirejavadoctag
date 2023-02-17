@@ -13,5 +13,9 @@ jobs:
         uses: actions/setup-java@v1
         with:
           java-version: 11
+      - name: Configure git user name
+        run: git config --global user.name "Benoit Maggi"
+      - name: Configure git user email
+        run: git config --global user.email "benoit.maggi@gmail.com"
       - name: Prepare release with Maven
         run: mvn --batch-mode release:clean release:prepare
