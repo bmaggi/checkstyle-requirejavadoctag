@@ -2,7 +2,9 @@ name: release
 
 on:
   workflow_dispatch :
-
+    secrets:
+      GH_TOKEN:
+        required: true
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -10,7 +12,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          token: ${{ secrets.GH_TOKEN }}
+          token: ${{ secrets[GH_TOKEN] }}
       - name: Set up JDK 11
         uses: actions/setup-java@v1
         with:
